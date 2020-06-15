@@ -1,0 +1,17 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef1"
+            },
+            "Name": "1231231",
+            "Phone__c": "123213",
+            "Mobile_Phone__c": "32132",
+            "Title__c": "231231",
+            "Properties__r": {
+                "records": []
+            }
+        }
+    ]
+}
